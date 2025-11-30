@@ -1,0 +1,55 @@
+# Compiled executables
+*.exe
+*.out
+auth_system.exe
+auth_system
+
+# Object files
+*.o
+*.obj
+
+# Database files
+*.db
+users.db
+
+# Compiler generated files
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# MinGW files
+*.a
+*.dll
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.backup
